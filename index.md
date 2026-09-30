@@ -1,123 +1,148 @@
+# Andrea Stanic
+
+*Master of Science in Business Analytics Student | Operations & Data Analytics*
+
+## About Me
+
+I am currently pursuing a **Master of Science in Business Analytics at California State University San Marcos (CSUSM)**. My background combines operations management, research analysis, data-driven problem solving, and cross-functional collaboration.
+
+Through my graduate studies, I am developing practical skills in **business analytics, data visualization, statistical analysis, data mining, decision modeling, and Python**. I am particularly interested in using data to identify patterns, improve business processes, and support better decision-making.
+
+Before beginning my graduate studies, I worked in research and operations-focused roles where I gained experience working with large amounts of information, maintaining data accuracy, coordinating workflows, preparing reports, and supporting process improvements.
+
 ---
-layout: default
+
+## Education
+
+### California State University San Marcos (CSUSM)
+
+**Master of Science in Business Analytics**  
+*2026 – Present*
+
+Relevant areas of study include:
+
+- Business Analytics
+- Data Mining
+- Data Visualization
+- Statistical Analysis
+- Decision Modeling
+- Python for Analytics
+- Business Process and Quality Improvement
+
+### Metropolitan University, Belgrade
+
+**Engineering and Operations Management**
+
+Coursework and academic experience developed my foundation in:
+
+- Operations Management
+- Process Improvement
+- Management
+- Problem Solving
+- Business Decision-Making
+
+### Cambridge English
+
+**Certificate in Advanced English**
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Professional Experience
 
-[Link to another page](./another-page.html).
+### Clarivate — Trademark Search Analyst / Foreign Associate Services
 
-There should be whitespace between paragraphs.
+*Belgrade, Serbia | 2023 – 2026*
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Worked with information collected from multiple sources while maintaining data accuracy and completeness.
+- Managed research assignments, deadlines, and workflow priorities.
+- Supported process improvement and the integration of Salesforce into daily operations.
+- Collaborated with international associates and cross-functional teams.
+- Prepared and reviewed information used to support client research and business processes.
 
-# Header 1
+### MarkMonitor — Domain Support Representative
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*Belgrade, Serbia | 2021 – 2023*
 
-## Header 2
+- Supported domain management and transfer projects.
+- Conducted requirements research and prepared client reports.
+- Worked with cross-functional teams to improve workflows and resolve technical issues.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Sitel — Customer Care Specialist
 
-### Header 3
+*Belgrade, Serbia | 2019 – 2021*
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Managed customer inquiries and maintained accurate records.
+- Analyzed customer issues and identified appropriate solutions.
+- Contributed to improvements in internal processes and procedures.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Business Analytics Skills
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Analytical Skills
 
-##### Header 5
+- Data analysis and interpretation
+- Descriptive and diagnostic analytics
+- Statistical analysis
+- Data visualization
+- Data mining
+- Decision analysis
+- Process improvement
+- Problem identification and root-cause analysis
+- Business problem framing
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Technical Skills
 
-###### Header 6
+- `Python`
+- `Excel`
+- `Git`
+- `GitHub`
+- `VS Code`
+- `Jupyter Notebooks`
+- Salesforce
+- Data visualization
+- Data preparation and analysis
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Professional Skills
 
-### There's a horizontal rule below this.
+- Problem solving
+- Analytical thinking
+- Communication
+- Cross-functional collaboration
+- Time management
+- Adaptability
+- Research
+- Process improvement
 
-* * *
+---
 
-### Here is an unordered list:
+## Selected Business Analytics Projects
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Quality Improvement & Defect Analysis
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Analyzed manufacturing defect data using **stratification and descriptive analytics** to investigate patterns involving suppliers, machines, operators, shifts, and dates. Evaluated possible sources of process variation and developed recommendations for additional data collection and process improvement.
 
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Areas of Interest
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+I am particularly interested in applying analytics to:
 
-```
-The final element.
-```
+1. Operations and supply chain decisions
+2. Process improvement
+3. Business strategy
+4. Customer and market analytics
+5. Data-driven decision-making
+
+My goal is to combine my background in **operations management** with my developing technical skills in **business analytics** to help organizations turn data into actionable business insights.
+
+---
+
+## Contact
+
+**Andrea Stanic**
+
+[Email Me](mailto:dea2001@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/astan0103/?isSelfProfile=true)
