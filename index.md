@@ -1,14 +1,14 @@
 # Andrea Stanic
 
-*Master of Science in Business Analytics Student | Operations & Data Analytics*
+*Master of Science in Business Analytics Student, Operations & Data Analytics*
 
 ## About Me
 
 I am currently pursuing a **Master of Science in Business Analytics at California State University San Marcos (CSUSM)**. My background combines operations management, research analysis, data-driven problem solving, and cross-functional collaboration.
 
-Through my graduate studies, I am developing practical skills in **business analytics, data visualization, statistical analysis, data mining, decision modeling, and Python**. I am particularly interested in using data to identify patterns, improve business processes, and support better decision-making.
+Through my graduate studies, I am developing practical skills in **business analytics, data visualization, statistical analysis, data mining and decision modeling**. I am particularly interested in using data to identify patterns, improve business processes, and support better decision making.
 
-Before beginning my graduate studies, I worked in research and operations-focused roles where I gained experience working with large amounts of information, maintaining data accuracy, coordinating workflows, preparing reports, and supporting process improvements.
+Before beginning my graduate studies, I worked in research and operations-focused roles where I gained experience working with large amounts of information, maintaining data accuracy, coordinating workflows, preparing reports, working in a corporate setting and supporting process improvements.
 
 ---
 
@@ -27,7 +27,7 @@ Relevant areas of study include:
 - Statistical Analysis
 - Decision Modeling
 - Python for Analytics
-- Business Process and Quality Improvement
+- Machine learning
 
 ### Metropolitan University, Belgrade
 
@@ -51,7 +51,7 @@ Coursework and academic experience developed my foundation in:
 
 ### Clarivate — Trademark Search Analyst / Foreign Associate Services
 
-*Belgrade, Serbia | 2023 – 2026*
+**Belgrade, Serbia, 2023-2026**
 
 - Worked with information collected from multiple sources while maintaining data accuracy and completeness.
 - Managed research assignments, deadlines, and workflow priorities.
@@ -61,7 +61,7 @@ Coursework and academic experience developed my foundation in:
 
 ### MarkMonitor — Domain Support Representative
 
-*Belgrade, Serbia | 2021 – 2023*
+**Belgrade, Serbia, 2021 – 2023**
 
 - Supported domain management and transfer projects.
 - Conducted requirements research and prepared client reports.
@@ -69,7 +69,7 @@ Coursework and academic experience developed my foundation in:
 
 ### Sitel — Customer Care Specialist
 
-*Belgrade, Serbia | 2019 – 2021*
+**Belgrade, Serbia, 2019 – 2021**
 
 - Managed customer inquiries and maintained accurate records.
 - Analyzed customer issues and identified appropriate solutions.
@@ -77,33 +77,7 @@ Coursework and academic experience developed my foundation in:
 
 ---
 
-## Business Analytics Skills
-
-### Analytical Skills
-
-- Data analysis and interpretation
-- Descriptive and diagnostic analytics
-- Statistical analysis
-- Data visualization
-- Data mining
-- Decision analysis
-- Process improvement
-- Problem identification and root-cause analysis
-- Business problem framing
-
-### Technical Skills
-
-- `Python`
-- `Excel`
-- `Git`
-- `GitHub`
-- `VS Code`
-- `Jupyter Notebooks`
-- Salesforce
-- Data visualization
-- Data preparation and analysis
-
-### Professional Skills
+## Professional Skills
 
 - Problem solving
 - Analytical thinking
@@ -116,7 +90,7 @@ Coursework and academic experience developed my foundation in:
 
 ---
 
-## Selected Business Analytics Projects
+## Business Analytics Projects
 
 ### Quality Improvement & Defect Analysis
 
@@ -127,7 +101,7 @@ Analyzed manufacturing defect data using **stratification and descriptive analyt
 
 ## Areas of Interest
 
-I am particularly interested in applying analytics to:
+I am interested in applying analytics to:
 
 1. Operations and supply chain decisions
 2. Process improvement
