@@ -1,122 +1,43 @@
-# Andrea Stanic
-
-*Master of Science in Business Analytics Student, Operations & Data Analytics*
-
-## About Me
-
-I am currently pursuing a **Master of Science in Business Analytics at California State University San Marcos (CSUSM)**. My background combines operations management, research analysis, data-driven problem solving, and cross-functional collaboration.
-
-Through my graduate studies, I am developing practical skills in **business analytics, data visualization, statistical analysis, data mining and decision modeling**. I am particularly interested in using data to identify patterns, improve business processes, and support better decision making.
-
-Before beginning my graduate studies, I worked in research and operations-focused roles where I gained experience working with large amounts of information, maintaining data accuracy, coordinating workflows, preparing reports, working in a corporate setting and supporting process improvements.
-
+---
+layout: single
+title: "Andrea Stanic"
+author_profile: true
+permalink: /
 ---
 
-## Education
+# Welcome
 
-### California State University San Marcos (CSUSM)
+I am currently pursuing a **Master of Science in Business Analytics at California State University San Marcos (CSUSM)**.
 
-**Master of Science in Business Analytics**  
-*2026 – Present*
+My academic and professional background combines **operations management, research, process improvement, and data-driven problem solving**. Through my graduate studies, I am developing practical skills in data analysis, visualization, statistics, decision modeling, data mining, and Python.
 
-Relevant areas of study include:
-
-- Business Analytics
-- Data Mining
-- Data Visualization
-- Statistical Analysis
-- Decision Modeling
-- Python for Analytics
-- Machine learning
-
-### Metropolitan University, Belgrade
-
-**Engineering and Operations Management**
-
-Coursework and academic experience developed my foundation in:
-
-- Operations Management
-- Process Improvement
-- Management
-- Problem Solving
-- Business Decision-Making
-
-### Cambridge English
-
-**Certificate in Advanced English**
-
----
-
-## Professional Experience
-
-### Clarivate — Trademark Search Analyst / Foreign Associate Services
-
-**Belgrade, Serbia, 2023-2026**
-
-- Worked with information collected from multiple sources while maintaining data accuracy and completeness.
-- Managed research assignments, deadlines, and workflow priorities.
-- Supported process improvement and the integration of Salesforce into daily operations.
-- Collaborated with international associates and cross-functional teams.
-- Prepared and reviewed information used to support client research and business processes.
-
-### MarkMonitor — Domain Support Representative
-
-**Belgrade, Serbia, 2021 – 2023**
-
-- Supported domain management and transfer projects.
-- Conducted requirements research and prepared client reports.
-- Worked with cross-functional teams to improve workflows and resolve technical issues.
-
-### Sitel — Customer Care Specialist
-
-**Belgrade, Serbia, 2019 – 2021**
-
-- Managed customer inquiries and maintained accurate records.
-- Analyzed customer issues and identified appropriate solutions.
-- Contributed to improvements in internal processes and procedures.
-
----
-
-## Professional Skills
-
-- Problem solving
-- Analytical thinking
-- Communication
-- Cross-functional collaboration
-- Time management
-- Adaptability
-- Research
-- Process improvement
-
----
-
-## Business Analytics Projects
-
-### Quality Improvement & Defect Analysis
-
-Analyzed manufacturing defect data using **stratification and descriptive analytics** to investigate patterns involving suppliers, machines, operators, shifts, and dates. Evaluated possible sources of process variation and developed recommendations for additional data collection and process improvement.
-
-
----
+I am especially interested in using analytics to identify patterns, improve business processes, and support better decision-making.
 
 ## Areas of Interest
 
-I am interested in applying analytics to:
+- Business Analytics
+- Data Visualization
+- Data Mining
+- Operations Analytics
+- Process Improvement
+- Statistical Analysis
+- Decision Modeling
+- Data-Driven Decision-Making
 
-1. Operations and supply chain decisions
-2. Process improvement
-3. Business strategy
-4. Customer and market analytics
-5. Data-driven decision-making
+## Technical Skills
 
-My goal is to combine my background in **operations management** with my developing technical skills in **business analytics** to help organizations turn data into actionable business insights.
+- `Python`
+- `Excel`
+- `Git`
+- `GitHub`
+- `VS Code`
+- `Jupyter Notebooks`
+- Salesforce
+- Data Visualization
+- Data Preparation and Analysis
 
----
+## Featured Work
 
-## Contact
+You can explore some of my academic and analytical work on the [Projects](/projects/) page.
 
-**Andrea Stanic**
-
-[Email Me](mailto:dea2001@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/astan0103/?isSelfProfile=true)
+For more information about my education and professional experience, visit my [Resume](/resume/).
