@@ -32,9 +32,9 @@ I am especially interested in using analytics to identify patterns, improve busi
 - `GitHub`
 - `VS Code`
 - `Jupyter Notebooks`
-- Salesforce
-- Data Visualization
-- Data Preparation and Analysis
+- `Salesforce`
+- `Data Visualization`
+- `Data Preparation and Analysis`
 
 ## Featured Work
 
