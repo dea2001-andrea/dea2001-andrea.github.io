@@ -1,6 +1,94 @@
-title: Andrea Stanic
-logo: /assets/img/logo.png
-description: MS in Business Analytics, CSUSM
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+# =========================
+# SITE SETTINGS
+# =========================
+
+title: "Andrea Stanic"
+subtitle: "Business Analytics Portfolio"
+name: "Andrea Stanic"
+
+description: >
+  MS in Business Analytics student at California State University San Marcos
+  with a background in operations management, research, and data-driven
+  problem solving.
+
+url: "https://dea2001-andrea.github.io"
+baseurl: ""
+
+repository: "dea2001-andrea/dea2001-andrea.github.io"
+
+
+# =========================
+# MINIMAL MISTAKES THEME
+# =========================
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+minimal_mistakes_skin: "default"
+
+
+# =========================
+# AUTHOR PROFILE
+# =========================
+
+author:
+  name: "Andrea Stanic"
+  avatar: "/assets/img/logo.png"
+  bio: >
+    MS in Business Analytics student at California State University San Marcos
+    with interests in data analysis, visualization, operations, and
+    data-driven decision-making.
+  location: "San Diego, California"
+
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:dea2001@gmail.com"
+
+    # Add your LinkedIn later by removing the # symbols
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/YOUR-LINKEDIN"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dea2001-andrea"
+
+
+# =========================
+# SITE BEHAVIOR
+# =========================
+
+search: false
+
+atom_feed:
+  hide: true
+
+
+# =========================
+# PLUGINS
+# =========================
+
+plugins:
+  - jekyll-include-cache
+
+
+# =========================
+# PAGE DEFAULTS
+# =========================
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+# =========================
+# MARKDOWN / JEKYLL
+# =========================
+
+markdown: kramdown
+
+permalink: /:categories/:title/
